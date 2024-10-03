@@ -1,0 +1,4 @@
+function greet('jose'){
+return `hello ${greet}!`
+}
+console.log(greet)
